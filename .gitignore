@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Keep .gitignore
+!.gitignore
+
+# Allow markdown files everywhere
+!**/*.md
+
+# Allow week folders
+!week01/
+!week01/**
+!week02/
+!week02/**
+!week03/
+!week03/**
