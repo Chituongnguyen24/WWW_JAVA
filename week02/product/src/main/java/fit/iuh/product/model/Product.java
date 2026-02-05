@@ -1,4 +1,4 @@
-package fit.iuh.product.model;
+    package fit.iuh.product.model;
 
 
 public class Product {
