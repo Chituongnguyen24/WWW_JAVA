@@ -1,0 +1,11 @@
+package fit.iuh.library.repository;
+
+import fit.iuh.library.entity.Book;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface BookRepository extends JpaRepository<Book, Long> {
+    List<Book> findBooksByTitleOrAuthor(String title,String author);
+    List<Book> findBooksByCategory(String category);
+}

@@ -1,21 +1,20 @@
-# Ignore everything
-*
 
-# Keep .gitignore
-!.gitignore
-
-# Allow markdown files everywhere
-!**/*.md
-
-# Allow week folders
-!week01/
-!week01/**
-!week02/
-!week02/**
-!week03/
-!week03/**
-!week04/
-!week04/**
-!week05/
-!week05/**
-
+/apache-tomcat-11.0.18/
+/lab03.docx
+/CacChuDe.pdf
+/Baitap WWW JAVA_JakartaEE11.pdf
+/SpringBoot_Java.docx
+/Chapter 5- Spring Boot (AutoRecovered).docx
+/Chapter4_AWS_Lamda (AutoRecovered).docx
+/Nguyễn Lâm Chí Tường_Spring-boot.docx
+/Nguyễn Lâm Chí Tường_Lab06.docx
+/15. DeCuongMonHoc_Lap trinh WWW (Java)_v2.0 (AutoRecovered).docx
+/Lab5_SpringDI.docx
+/DoAnMonHoc.pdf
+/Lab3_Servlet.docx
+/Slide/1.-jakartaee.pptx
+/Slide/2-0.-spring-ecosytem.pptx
+/Slide/3.-spring-boot.pptx
+/Slide/4.-spring-data-mongo-rest.pptx
+/Slide/5. Spring - WebServlet.pptx
+/Slide/6. Spring Security.pptx
